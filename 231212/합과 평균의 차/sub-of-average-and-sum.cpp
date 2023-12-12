@@ -6,6 +6,6 @@ int main() {
     int sum = a+b+c;
     int mid = sum/3;
     int last = sum - mid;
-    cout << sun << "\n" << mid << "\n" << last;
+    cout << sum << "\n" << mid << "\n" << last;
     return 0;
 }
