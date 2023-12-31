@@ -28,7 +28,7 @@ int main() {
             }
         }
         cnt = next;
-        if(totalCnt ==  301) break;
+        if(totalCnt ==  304) break;
     }
     for(int i = 0; i < 3; i++){
         cout << bucket[i].second << "\n";
